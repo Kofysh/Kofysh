@@ -12,7 +12,7 @@ Découvrez mes vibes du moment sur Spotify ! 🎧
 
 ## Contactez-moi 📬
 
-Vous avez des questions, des idées passionnantes sur les infrastructures réseau, ou simplement envie de discuter tech ? Je suis à un email de distance à contact@yipyip.fr.
+Vous avez des questions, des idées passionnantes sur les infrastructures réseau, ou simplement envie de discuter tech ? Je suis à un email de distance à contact@yipyip.fr
 
 ## Licence ⚖️
 
