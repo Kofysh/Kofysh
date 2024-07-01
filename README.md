@@ -19,6 +19,11 @@ Je suis Kofy, un passionné de l'informatique, des infrastructures réseau et de
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LXC](https://img.shields.io/badge/LXC-009639?style=for-the-badge&logo=linux-containers&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Spotify 🎶
 
@@ -35,4 +40,3 @@ Vous avez des questions, des idées passionnantes sur les infrastructures résea
 Tous mes projets sont sous licence [MIT](LICENSE). Explorez-les et n'hésitez pas à contribuer !
 
 Plongez dans le monde fascinant de l'informatique avec moi. Merci de visiter mon profil GitHub ! 😊
-
