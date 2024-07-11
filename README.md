@@ -64,6 +64,7 @@ Je suis Kofy, un passionné de l'informatique, des infrastructures réseau et de
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ### Outils de Développement et de Collaboration
+![GLPI](https://img.shields.io/badge/GLPI-0052CC?style=for-the-badge&logo=glpi&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
