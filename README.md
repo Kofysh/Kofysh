@@ -1,7 +1,3 @@
-Bien sûr ! Voici une version mise à jour avec plus d'outils.
-
----
-
 # Bienvenue sur mon Profil GitHub ! 🌟
 
 ## À propos de moi 🚀
