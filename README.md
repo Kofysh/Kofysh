@@ -46,8 +46,6 @@ Je suis Kofy, un passionné de l'informatique, des infrastructures réseau et de
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
@@ -80,7 +78,7 @@ Je suis Kofy, un passionné de l'informatique, des infrastructures réseau et de
 
 Découvrez mes vibes du moment sur Spotify ! 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mg5120sdt6uenh2rat1si1omh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mg5120sdt6uenh2rat1si1omh&redirect=true)
+[![Spotify GitHub Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mg5120sdt6uenh2rat1si1omh&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mg5120sdt6uenh2rat1si1omh&redirect=true)
 
 ## Contactez-moi 📬
 
