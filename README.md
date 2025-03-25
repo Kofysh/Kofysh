@@ -70,22 +70,3 @@ Je suis **Kofy**, un passionné de cybersécurité, de réseau, de serveurs et d
 ## **📫 Contactez-moi !**  
 💌 **Email :** [contact@yipyip.fr](mailto:contact@yipyip.fr)  
 💻 **GitHub :** [github.com/kofysh](https://github.com/kofysh)  
-📡 **LinkedIn :** [linkedin.com/in/kofysh](#) *(à compléter si dispo)*  
-
----
-
-### **🎓 Certification & Formations**  
-🏆 **OSCP (Offensive Security Certified Professional) – En cours**  
-🔐 **CEH (Certified Ethical Hacker) – Prévu**  
-📜 **TryHackMe Badges** *(Ajoute ici un lien vers ton profil THM si tu veux)*  
-
----
-
-## **🛠️ Projets phares**  
-- **🔓 CTF & Write-ups :** *(Ajouter un lien vers tes résolutions de défis CTF)*  
-- **📡 Infrastructure & Automatisation :** *(Lister un projet d’optimisation de réseau ou DevOps)*  
-- **🌍 Blockchain & Smart Contracts :** *(Ajouter un projet Ethereum ou Solidity)*  
-
----
-
-Ça te plaît ? 😃 Dis-moi si tu veux d'autres ajouts, comme des GIFs animés ou des liens vers tes projets CTF ! 🚀🔥
