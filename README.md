@@ -36,11 +36,10 @@ Je suis **Kofy**, un passionné de cybersécurité, de réseau, de serveurs et d
 
 ---
 
-## **🎵 Spotify – Ce que j'écoute en ce moment** 🎶  
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=mg5120sdt6uenh2rat1si1omh&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile))  
+## **🎵 Ce que j'écoute en ce moment** 🎶  
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=mg5120sdt6uenh2rat1si1omh&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
 
 ---
 
 ## **📫 Contactez-moi !**  
-💌 **Email :** [contact@yipyip.fr](mailto:contact@yipyip.fr)  
-💻 **GitHub :** [github.com/kofysh](https://github.com/kofysh)  
+💌 **Email :** [contact@yipyip.fr](mailto:contact@yipyip.fr)   
