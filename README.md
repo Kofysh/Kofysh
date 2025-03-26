@@ -1,5 +1,3 @@
-# **Bienvenue sur mon Profil GitHub !** 🌟  
-
 ## **À propos de moi** 🚀  
 
 Je suis **Kofy**, un passionné de cybersécurité, de réseau, de serveurs et de systèmes distribués. J’aime explorer la complexité des infrastructures et optimiser leur performance.  
@@ -28,11 +26,6 @@ Je suis **Kofy**, un passionné de cybersécurité, de réseau, de serveurs et d
 
 ## **🔒 Cybersécurité & Hacking**  
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)  ![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)  ![CTFtime](https://img.shields.io/badge/CTFtime-181717?style=for-the-badge&logo=ctftime&logoColor=white)  ![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=for-the-badge&logo=archlinux&logoColor=white)  
-
----
-
-## **📊 Statistiques GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kofysh&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kofysh&layout=compact&theme=dark)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kofysh&theme=dark)  
 
 ---
 
